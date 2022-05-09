@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* .MuiContainer-root {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+} */
+.makeStyles-root-7 .MuiFormControl-root {
+  width: 100% !important;
+  margin: 8px;
+}
+
+.MuiStepIcon-root {
+  color: rgba(0, 0, 0, 0.38);
+  display: block;
+}
+.MuiStepIcon-root.MuiStepIcon-completed {
+  color: #55f155 !important;
+}
+.MuiStepIcon-root.MuiStepIcon-active {
+  color: #ce0718 !important;
+}
+.MuiStepIcon-root.Mui-error {
+  color: #f44336;
+}
+.MuiStepIcon-text {
+  fill: #fff;
+  font-size: 0.75rem;
+  color: #fa0c18 !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-1 {
+  color: red !important;
+}
+table, td, th {
+  border: 1px solid rgb(230, 226, 226);
+}
+/* .MuiButtonBase-root {
+  width: auto !important;
+} */
+
+
+
+
+
+.MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary {
+  margin-top: 50px !important;
+}
+
+.MuiFormControl-root makeStyles-formControl-134 MuiFormControl-fullWidth {
+  height: auto !important;
+}
+.MuiFormControl-root makeStyles-formControl-148 {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 10px !important;
+}
+.makeStyles-cardBody-7 br {
+  display: none;
+}
+.col-md-2 br, .col-md-3 br, .col-md-4 br, .col-md-5 br, .col-md-6 br, .col-md-9 br, table br {
+  display: none !important;
+}
+.card-header h4 {
+  color: #ce0718;
+}
+.MuiTabs-flexContainer {
+  display: block !important;
+  text-align: center !important;
+}
+.MuiTab-root {
+  text-transform: capitalize !important;
+}
+.MuiStepLabel-label.MuiStepLabel-active {
+  color: #ce0718 !important;
+}
+.MuiPaper-root .MuiStepper-root.MuiStepper-horizontal.MuiPaper-elevation0 {
+  padding-left: 6px !important;
+  padding-right: 6px !important;
+}
+.MuiIcon-root {
+  color: #ce0718 !important;
+}
+.MuiTypography-h6 {
+  color: #ce0718 !important;
+}
+.cam-btn-row {
+  display: flex !important;
+  flex-wrap: none !important;
+}
+img {
+  width: 50px !important;
+  height: 50px !important;
+}
+.img-lg img {
+  width: 100% !important;
+  height: auto !important;
+}
+.MuiSvgIcon-root {
+  color: #ce0718 !important;
+}
+.MuiSvgIcon-root .MuiTouchRipple-root {
+  color: #ce0718 !important;
+}
+.css-cveggr-MuiListItemIcon-root {
+  min-width: 30px !important;
+}
+.css-h4y409-MuiList-root {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+.table td th {
+  border: none !important;
+}
+.content-layout {
+  margin-left: -100px !important;
+}
+.image-box {
+  height: 100px;
+  width: 100px;
+  background-color: #555;
+}
+.image-box-third {
+  height: 100px;
+  width: 100px;
+}
+.modal-header {
+  height: 70px;
+  width: 100%;
+  background-color: #ce0718;
+}
+li {
+  
+}
